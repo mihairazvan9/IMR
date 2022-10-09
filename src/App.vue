@@ -18,7 +18,7 @@
 
     // NOTE: Add axis helper
     const axesHelper = new THREE.AxesHelper(8)
-    threeWorld.scene.add(axesHelper)
+    // threeWorld.scene.add(axesHelper)
 
 
     // NOTE: Initialize physic word
